@@ -19,6 +19,10 @@ img.photo {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    border: 5px;
+  
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 img.floatphoto {
     float: left;
